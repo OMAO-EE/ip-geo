@@ -1,0 +1,11 @@
+#AS47741 Geofeed
+#Last Update:20241213
+#prefix,country_code,region_code,city,postal
+#FR
+163.5.219.0/24,FR,FR-75C,Paris,
+163.5.248.0/24,FR,FR-75C,Paris,
+181.41.196.0/24,FR,FR-75C,Paris,
+#JP
+163.5.92.0/24,JP,JP-13,Tokyo,
+#KR
+212.42.208.0/20,KR,KR-11,Seoul-teukbyeolsi,
