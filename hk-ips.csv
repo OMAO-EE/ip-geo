@@ -1,0 +1,11 @@
+#HGC,HKBN Geofeed
+#Last Update:20251113
+#prefix,country_code,region_code,city,postal
+#HK
+202.155.152.0/22,HK,,Kwai Chung,
+31.58.157.0/24,HK,,Kwai Chung,
+163.5.12.0/24,HK,,Kwai Chung,
+64.190.139.0/24,HK,,Kwai Chung,
+64.49.44.0/24,HK,,Kwai Chung,
+64.49.45.0/24,HK,,Kwai Chung,
+64.49.46.0/24,HK,,Kwai Chung,
