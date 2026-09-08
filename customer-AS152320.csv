@@ -10,3 +10,6 @@
 163.128.101.0/24,HK,,Kwai Chung,
 #JP
 163.128.100.0/24,JP,JP-13,Tokyo,
+2a10:fa80:14::/48,JP,JP-13,Tokyo,
+#SG
+2a10:fa80:15::/48,SG,SG-01,Central Singapore,
